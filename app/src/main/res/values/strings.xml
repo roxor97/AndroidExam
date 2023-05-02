@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidExam</string>
+    <string name="title_activity_new3">NewActivity3</string>
+    <string name="hint_name">Name:</string>
+    <string name="hint_email">Email:</string>
+    <string name="hint_lastName">Last Name:</string>
+    <string name="hint_password">Password:</string>
+    <string name="hint_id">Identification:</string>
+    <string name="text_createAccount">Create account</string>
+    <string name="btn_register">Register</string>
+    <string name="menu_new_register">Create Account</string>
+    <string name="btn_welcome">Welcome</string>
+
+
+</resources>
